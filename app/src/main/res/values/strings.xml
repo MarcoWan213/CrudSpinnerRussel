@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CrudSpinner</string>
+    <string name="ver_comentario">Ver Comentario</string>
+    <string name="eliminar">Eliminar</string>
+    <string name="crear_un_nuevo_comentario">Crear un nuevo comentario</string>
+    <string name="nombre">Nombre</string>
+    <string name="comentario">Comentario</string>
+    <string name="crear">Crear</string>
+    <string name="seleccione_un_comentario">Seleccione un comentario</string>
+    <string name="ver">Ver</string>
+</resources>
